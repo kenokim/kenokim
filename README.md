@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenokim)](https://github.com/kenokim/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={tymes0403})](https://solved.ac/{tymes0403})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={tymes0403})](https://solved.ac/{tymes0403})
