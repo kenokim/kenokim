@@ -2,4 +2,4 @@ Web server engineer (backend)
 
 Interested in Java, Spring
 
-Recent interest : Design patterns
+Recent interest : MySQL
