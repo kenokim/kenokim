@@ -1,5 +1,5 @@
 Web server engineer (backend)
 
-Interested in Java, Spring
+Main stacks: Java, Spring, Jpa
 
 Recent interest : MySQL
