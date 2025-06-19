@@ -1,3 +1,7 @@
+## Keno Kim (김건호)
+- Backend Engineer (Java, Typescript)
+- GenAI Application Engineer (LLM, RAG, Agent)
+
 ### Hi!
 - Developers: Living in a world where all imaginations come true
 
