@@ -1,5 +1,6 @@
-Backend Engineer (Java, Python, TypeScript)
-GenAI Application Engineer (Prompt Engineering, AI Agent)
+# Kunho Kim
+- Backend Engineer (Java, Python, TypeScript)
+- GenAI Application Engineer (Prompt Engineering, AI Agent)
 
 I have experience in backend, GenAI stack, and cloud development (Azure, GCP) through work on security solutions and B2C SaaS products.
 
