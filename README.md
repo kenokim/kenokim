@@ -1,9 +1,7 @@
-## Keno Kim (김건호)
-- Backend Engineer (Java, Typescript)
-- GenAI Application Engineer (LLM, RAG, Agent)
+Backend Engineer (Java, Python, TypeScript)
+GenAI Application Engineer (Prompt Engineering, AI Agent)
 
-### Hi!
-- Developers: Living in a world where all imaginations come true
+I have experience in backend, GenAI stack, and cloud development (Azure, GCP) through work on security solutions and B2C SaaS products.
 
-### Me
-- Chemical engineering 을 전공하던 중, Andrew Ng 의 ML 강의와 강화학습에 매료되어 개발자의 꿈을 갖게 되었습니다.
+While majoring in Chemical Engineering, I was inspired by Andrew Ng’s ML course and reinforcement learning, which led me to pursue a career as a developer.
+I have extensive experience building applications with GenAI (Cursor, Vibe Coding) and have developed multiple AI Agent applications (both in professional work and personal projects).
